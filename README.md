@@ -58,4 +58,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrianarivo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![@david's Holopin board](https://holopin.io/api/user/board?user=andrianarivo)](https://holopin.io/@andrianarivo)
-
