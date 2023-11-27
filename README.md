@@ -56,5 +56,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andrianarivo&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrianarivo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![@david's Holopin board](https://holopin.io/api/user/board?user=andrianarivo)](https://holopin.io/@andrianarivo)
